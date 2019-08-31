@@ -24,4 +24,3 @@ x = ["pink", "white"]
 print ("white"in x)
 #returns true because a sequence with the value "white" is in the list
 print ("pink" not in x )
-
