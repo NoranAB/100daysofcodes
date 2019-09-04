@@ -1,5 +1,6 @@
 #Data structure python lists2
 #Example1
+
 thislist = ["A", "S", "N", "K","W", "R"]
 print(thislist[0:2])
 print(thislist[2:6])
