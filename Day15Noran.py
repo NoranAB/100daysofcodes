@@ -46,8 +46,8 @@ print(x)
 
 #Example8 list()
 a = ["Aug", "July", "Sep"]
-mylist = a
-print(mylist)
+y = list(a)
+print(y)
 
-z = ("June", "March", "April") #note the double round-breakets
+z = list (("June", "March", "April")) #note the double round-breakets
 print(z)
