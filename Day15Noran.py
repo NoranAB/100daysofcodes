@@ -43,11 +43,3 @@ y=z
 x.pop(0)
 print(y)
 print(x)
-
-#Example8 list()
-a = ["Aug", "July", "Sep"]
-y = list(a)
-print(y)
-
-z = list (("June", "March", "April")) #note the double round-breakets
-print(z)
