@@ -43,3 +43,7 @@ y=z
 x.pop(0)
 print(y)
 print(x)
+
+thislist = ["apple", "banana", "cherry"]
+mylist = list (thislist)
+print (mylist)

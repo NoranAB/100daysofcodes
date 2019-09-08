@@ -20,8 +20,8 @@ print (x)
 z = ("cherry", "orange", "green apple")
 print (len(z))
 #the tuple() Contructor
-x = tuple(("white", "Pink", "blue")) #note the double round-brackets
-print(x)
+n = tuple(("white", "Pink", "blue")) #note the double round-brackets
+print(n)
 thislist = [3, 4, 5, 6,"T", "N"]
 thistuple = tuple(thislist)
 print(thistuple)
