@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day24noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day25and26.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day24noran">
+  <component name="RunManager" selected="Python.Day25and26">
     <configuration name="15DayNoran" type="PythonConfigurationType" factoryName="Python">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day25and26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day25and26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,19 +181,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.15DayNoran" />
-      <item itemvalue="Python.day15" />
       <item itemvalue="Python.15day" />
       <item itemvalue="Python.noran15day" />
       <item itemvalue="Python.Day23noran" />
       <item itemvalue="Python.Day24noran" />
+      <item itemvalue="Python.Day25and26" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day24noran" />
+        <item itemvalue="Python.Day25and26" />
         <item itemvalue="Python.Day23noran" />
+        <item itemvalue="Python.Day24noran" />
         <item itemvalue="Python.noran15day" />
         <item itemvalue="Python.15DayNoran" />
-        <item itemvalue="Python.15day" />
       </list>
     </recent_temporary>
   </component>
