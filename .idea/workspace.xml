@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="" />
+    <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/100daysofcodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day18and19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +57,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day39and40">
-    <configuration name="20day" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day18and19">
+    <configuration name="Day18and19" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20day.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day18and19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,19 +164,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.20day" />
       <item itemvalue="Python.Day21Noran" />
       <item itemvalue="Python.Day22Noran" />
       <item itemvalue="Python.Day23noran" />
       <item itemvalue="Python.Day39and40" />
+      <item itemvalue="Python.Day18and19" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day18and19" />
         <item itemvalue="Python.Day39and40" />
         <item itemvalue="Python.Day23noran" />
         <item itemvalue="Python.Day22Noran" />
         <item itemvalue="Python.Day21Noran" />
-        <item itemvalue="Python.20day" />
       </list>
     </recent_temporary>
   </component>
