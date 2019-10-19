@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day57noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/100daysofcodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day58noran.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day57noran">
+  <component name="RunManager" selected="Python.Day58noran">
     <configuration name="Day53and54" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day58noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day58noran.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,18 +165,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Day53and54" />
-      <item itemvalue="Python.module" />
       <item itemvalue="Python.Day55noran" />
       <item itemvalue="Python.Day56noran" />
       <item itemvalue="Python.Day57noran" />
+      <item itemvalue="Python.Day58noran" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day58noran" />
         <item itemvalue="Python.Day57noran" />
         <item itemvalue="Python.Day56noran" />
         <item itemvalue="Python.Day55noran" />
         <item itemvalue="Python.Day53and54" />
-        <item itemvalue="Python.module" />
       </list>
     </recent_temporary>
   </component>
