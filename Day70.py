@@ -16,6 +16,3 @@ mydb = mysql.connector.connect(
 
 mycursor = mydb.cursor()
 mycursor.execute("ALTER TABLE customers ADD COLUMN id INT AUTO_INCREMENT PRIMARY KEY")
-
-
-

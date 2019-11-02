@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day71noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day70.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day70noran.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day70noran.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day70noran.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
