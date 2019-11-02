@@ -8,13 +8,14 @@ mydb = mysql.connector.connect(
     database="mydatabase"
 )
 
+# mycursor.execute("SHOW TABLES")
+# for x in mycursor:
+#  print(x)
+
+#mycursor.execute("CREATE TABLE customers (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(225), address VARCHAR(225))")
 
 mycursor = mydb.cursor()
 mycursor.execute("ALTER TABLE customers ADD COLUMN id INT AUTO_INCREMENT PRIMARY KEY")
 
-#mycursor.execute("CREATE TABLE customers (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(225), address VARCHAR(225))")
 
-# mycursor.execute("SHOW TABLES")
-# for x in mycursor:
-#  print(x)
 
