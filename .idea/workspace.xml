@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/74and75.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text1file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text2file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/74and75day.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demofile2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/74and75.py" beforeDir="false" afterPath="$PROJECT_DIR$/74and75.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/textfile.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +56,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day73noran">
-    <configuration name="Day70" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.74and75">
+    <configuration name="74and75" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day70.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/74and75.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day74and75" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tetxt 745" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day74and75.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetxt 745.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,18 +164,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Day73noran" />
-      <item itemvalue="Python.Day74and75" />
-      <item itemvalue="Python.Day70" />
       <item itemvalue="Python.Day73" />
       <item itemvalue="Python.Day71noran" />
+      <item itemvalue="Python.74and75" />
+      <item itemvalue="Python.tetxt 745" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.74and75" />
+        <item itemvalue="Python.tetxt 745" />
         <item itemvalue="Python.Day73noran" />
         <item itemvalue="Python.Day73" />
         <item itemvalue="Python.Day71noran" />
-        <item itemvalue="Python.Day70" />
-        <item itemvalue="Python.Day74and75" />
       </list>
     </recent_temporary>
   </component>
