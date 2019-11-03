@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day73noran.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day74and75.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/70Day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/74and75day.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day70.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day70.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demofile2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demofile2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day70.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day74and75.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

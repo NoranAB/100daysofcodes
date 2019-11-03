@@ -11,4 +11,3 @@ print(j.read())
 
 
 #task2
-
