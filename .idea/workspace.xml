@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day72noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day73noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day74and75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day70.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day70.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demofile2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demofile2.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +57,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day72noran">
-    <configuration name="Day69noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day73noran">
+    <configuration name="Day70" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,28 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day69noran.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Day70noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100daysofcodes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day70noran.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day70.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day72noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day73" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day72noran.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day73.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day73noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +133,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day73noran.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day74and75" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="100daysofcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day74and75.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +164,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day69noran" />
-      <item itemvalue="Python.Day70noran" />
-      <item itemvalue="Python.demo_mysql" />
+      <item itemvalue="Python.Day73noran" />
+      <item itemvalue="Python.Day74and75" />
+      <item itemvalue="Python.Day70" />
+      <item itemvalue="Python.Day73" />
       <item itemvalue="Python.Day71noran" />
-      <item itemvalue="Python.Day72noran" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Day72noran" />
+        <item itemvalue="Python.Day73noran" />
+        <item itemvalue="Python.Day73" />
         <item itemvalue="Python.Day71noran" />
-        <item itemvalue="Python.Day70noran" />
-        <item itemvalue="Python.demo_mysql" />
-        <item itemvalue="Python.Day69noran" />
+        <item itemvalue="Python.Day70" />
+        <item itemvalue="Python.Day74and75" />
       </list>
     </recent_temporary>
   </component>
