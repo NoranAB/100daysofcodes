@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f756510-825e-4d92-adb9-5b3ac1f172fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer_AI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gaming noran.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/74and75.py" beforeDir="false" afterPath="$PROJECT_DIR$/74and75.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text1file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text1file.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +60,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.74and75">
-    <configuration name="74and75" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Project_Noran">
+    <configuration name="2player" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/74and75.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2player.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day71noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Computer_AI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day71noran.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Computer_AI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day73" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Project_Noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day73.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project_Noran.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day73noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day73noran.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tic_tac_toe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tetxt 745" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gaming noran" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="100daysofcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetxt 745.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gaming noran.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +167,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Day73noran" />
-      <item itemvalue="Python.Day73" />
-      <item itemvalue="Python.Day71noran" />
-      <item itemvalue="Python.74and75" />
-      <item itemvalue="Python.tetxt 745" />
+      <item itemvalue="Python.gaming noran" />
+      <item itemvalue="Python.Computer_AI" />
+      <item itemvalue="Python.Tic_tac_toe" />
+      <item itemvalue="Python.2player" />
+      <item itemvalue="Python.Project_Noran" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.74and75" />
-        <item itemvalue="Python.tetxt 745" />
-        <item itemvalue="Python.Day73noran" />
-        <item itemvalue="Python.Day73" />
-        <item itemvalue="Python.Day71noran" />
+        <item itemvalue="Python.Project_Noran" />
+        <item itemvalue="Python.gaming noran" />
+        <item itemvalue="Python.2player" />
+        <item itemvalue="Python.Tic_tac_toe" />
+        <item itemvalue="Python.Computer_AI" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +216,16 @@
           <url>file://$PROJECT_DIR$/Day38noran.py</url>
           <line>8</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Computer_AI.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test game.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
